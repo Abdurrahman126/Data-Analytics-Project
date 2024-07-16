@@ -3,4 +3,4 @@ You can view the interactive dashboard published on Tableau Public here:
 
 SKILLS USED: Google sheets, MYSQL, TABELUE
 
-I have completed this case study to showcase my skills acquired in Google data analytics specialization.
+I have completed this case study to showcase my skills acquired in Google data analytics specialization with the assistance of @Uzair958
